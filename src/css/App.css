@@ -1,5 +1,5 @@
 * {
-  background-color: black;
+  background-color: #04c2f2;
 }
 .App {
   text-align: center;
@@ -20,10 +20,14 @@
 }
 
 .App-title {
-  font-size: 2.5em;
+  font-size: 4vw;
   text-align: center;
-  font-style: bold;
+  font-weight: bold;
+  padding: 20px;
+
+  margin: 30px 400px;
   color: white;
+  background: rgba(237, 109, 82, 1);
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
